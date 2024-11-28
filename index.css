@@ -1,0 +1,26 @@
+#header {
+    text-align: center;
+    background-color: rgb(65, 127, 251);
+    padding: 10px;
+    border-radius: 20px;
+}
+#nav{
+    text-align: center;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    /* gap: 20px; */
+
+    justify-content: space-around;
+    list-style-type: none;
+}
+li a{
+    color: rgb(222, 143, 241);
+}
+h1 {
+    text-align: center;
+}
+html{
+    background-color: rgb(157, 188, 241);
+}
